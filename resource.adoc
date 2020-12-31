@@ -1,0 +1,6 @@
+
+= Relevant Resources for the jQA Docker Images
+
+== Debian
+
+- https://wiki.debian.org/Java
